@@ -10,7 +10,6 @@ import { ContadorModule } from './contador/contador.module';
 @NgModule({
   declarations: [
     AppComponent,
-    // ContadorComponent,
   ],
   imports: [
     BrowserModule,
